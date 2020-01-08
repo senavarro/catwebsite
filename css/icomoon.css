@@ -1,0 +1,106 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?rak0qz');
+  src:  url('fonts/icomoon.eot?rak0qz#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?rak0qz') format('truetype'),
+    url('fonts/icomoon.woff?rak0qz') format('woff'),
+    url('fonts/icomoon.svg?rak0qz#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-sleep:before {
+  content: "\e900";
+}
+.icon-rest:before {
+  content: "\e900";
+}
+.icon-stop:before {
+  content: "\e900";
+}
+.icon-nap:before {
+  content: "\e900";
+}
+.icon-doze:before {
+  content: "\e900";
+}
+.icon-retire:before {
+  content: "\e900";
+}
+.icon-play:before {
+  content: "\e912";
+}
+.icon-plus:before {
+  content: "\ea0a";
+}
+.icon-cross:before {
+  content: "\ea0f";
+}
+.icon-checkmark:before {
+  content: "\ea10";
+}
+.icon-previous2:before {
+  content: "\ea23";
+}
+.icon-next2:before {
+  content: "\ea24";
+}
+.icon-circle-right:before {
+  content: "\ea42";
+}
+.icon-circle-down:before {
+  content: "\ea43";
+}
+.icon-circle-left:before {
+  content: "\ea44";
+}
+.icon-share2:before {
+  content: "\ea82";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-whatsapp:before {
+  content: "\ea93";
+}
+.icon-telegram:before {
+  content: "\ea95";
+}
+.icon-rss:before {
+  content: "\ea9b";
+}
+.icon-linkedin:before {
+  content: "\eac9";
+}
+.icon-bed:before {
+  content: "\e901";
+}
+.icon-hotel:before {
+  content: "\e901";
+}
+.icon-coffeescript:before {
+  content: "\e902";
+}
+.icon-buymeacoffee:before {
+  content: "\e903";
+  color: #ff813f;
+}
